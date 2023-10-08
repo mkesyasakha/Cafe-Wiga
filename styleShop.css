@@ -88,7 +88,8 @@ body {
     display: flex;
     margin-top: 2rem;
     margin: 2rem 20rem;
-    background-color: #222;
+    background-color: rgba(170, 162, 162, 0.397);
+    filter: blur(0.5px);
     border-radius: 4rem;
 }
 .contact .row form {
